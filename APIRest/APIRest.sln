@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRest", "APIRest\APIRest.csproj", "{E4430B7F-36DE-48C7-BF8A-937365FAC5E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPI", "RestAPI\RestAPI.csproj", "{31B92183-F645-4C22-9ABC-802F877B959F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E4430B7F-36DE-48C7-BF8A-937365FAC5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4430B7F-36DE-48C7-BF8A-937365FAC5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4430B7F-36DE-48C7-BF8A-937365FAC5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4430B7F-36DE-48C7-BF8A-937365FAC5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B92183-F645-4C22-9ABC-802F877B959F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B92183-F645-4C22-9ABC-802F877B959F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B92183-F645-4C22-9ABC-802F877B959F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B92183-F645-4C22-9ABC-802F877B959F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
